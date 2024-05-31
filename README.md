@@ -6,7 +6,7 @@ https://play.google.com/store/apps/details?id=host.exp.exponent
 
 To start the project, first clone or unzip the code from GitHub
 
-<Github link>
+https://github.com/rohithsingh1/QuizApplication-React-Native.git
 
 Navigate to the local directory where you want to clone the repository.
 
